@@ -2,7 +2,7 @@
 
 pnpm dlx create-tauri-app
 
-ncu i
+ncu -i
 
 pnpm i
 
