@@ -1,5 +1,5 @@
 [package]
-name = "way-create-tauri"
+name = "template-tauri-create-way"
 version = "0.0.0"
 description = "A Tauri App"
 authors = ["you"]

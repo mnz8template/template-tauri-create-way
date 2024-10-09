@@ -10,14 +10,14 @@ pnpm i
 
 ```
 $ pnpm dlx create-tauri-app
-✔ Project name · way-create-tauri
+✔ Project name · template-tauri-create-way
 ✔ Choose which language to use for your frontend · TypeScript / JavaScript - (pnpm, yarn, npm, bun)
 ✔ Choose your package manager · pnpm
 ✔ Choose your UI template · Vue - (https://vuejs.org/)
 ✔ Choose your UI flavor · TypeScript
 
 Template created! To get started run:
-  cd way-create-tauri
+  cd template-tauri-create-way
   pnpm install
   pnpm tauri dev
 

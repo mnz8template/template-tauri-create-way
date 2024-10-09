@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "way-create-tauri",
+    "productName": "template-tauri-create-way",
     "version": "0.0.0"
   },
   "tauri": {
@@ -19,7 +19,7 @@
     },
     "windows": [
       {
-        "title": "way-create-tauri",
+        "title": "template-tauri-create-way",
         "width": 800,
         "height": 600
       }
